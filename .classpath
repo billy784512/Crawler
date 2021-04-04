@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.4+11">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Billy/Desktop/實習/BeatGoogle-master/BeatGoogle-master/WhereToGo/WebContent/WEB-INF/lib/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Billy/Desktop/實習/BeatGoogle-master/BeatGoogle-master/WhereToGo/WebContent/WEB-INF/lib/kendo-taglib-2020.3.1118.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Billy/Desktop/apache-tomcat-10.0.4-windows-x64/apache-tomcat-10.0.4/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Billy/Desktop/eclipse-java-2019-06-R-win32-x86_64/eclipse/plugins/javax.servlet.jsp_2.2.0.v201112011158.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Billy/Desktop/eclipse-java-2019-06-R-win32-x86_64/eclipse/plugins/javax.servlet_3.1.0.v201410161800.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
